@@ -26,7 +26,7 @@ General:
 | ------ | ------ |
 | Space | Show Tunnels |
 | P | Show Pipes |
-| T | Make 1 tick |
+| T | Make 1 Tick |
 | C | Spawn Car |
 
 **Editor**:
