@@ -28,6 +28,7 @@ General:
 | P | Show Pipes |
 | T | Make 1 Tick |
 | C | Spawn Car |
+| Mouse Left | Tile Select |
 
 **Editor**:
 | Button | Action |
