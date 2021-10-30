@@ -1,4 +1,13 @@
-# Cars Emulator
+# Cars Simulator
+A simple 2D simulator of cars.
+Features:
+* Traffic Lights
+* Collisions (Traffic Jams)
+* Pathfinding
+* Car Trip
+* World Editor
+* Theme Tiles
+* World Saving
 
 # Controls
 General:
